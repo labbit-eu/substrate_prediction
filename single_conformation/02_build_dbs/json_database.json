@@ -1,0 +1,54 @@
+{
+  "REF_PDB": "PDB_CODE",
+  "RETAIN": [
+    "Fill with residue name to mantain in PDB."
+  ],
+  "UNIPROT": {
+    "UNIPROT_CODE": {
+      "pdbs": [
+        "PDB CODE BELONGING TO UNIPROT"
+      ],
+      "substrates": [
+        "LIST OF SUBSTRATES"
+      ],
+      "active_sites": {
+        "PDB CODE BELONGING TO UNIPROT": [
+           "LIST OF ACTIVE SITE RESIDUES"
+        ]
+      },
+      "substrates_cids": {
+        "SUBSTRATE NAMES": "SUBSTRATE CIDS",
+      }
+    }
+  },
+  "DOCKING_BOX": {
+    "center": [
+      "XYZ COORDINATES OF THE DOCKING BOX"
+    ],
+    "size": [
+      "XYZ SIZE OF THE DOCKING BOX"
+    ]
+  },
+  "QUERY_PROTEIN": {
+    "NAME": "NAME OF TARGET PROTEIN",
+    "PDB": "PDB CODE OF TARGET PROTEIN",
+    "active_sites": {
+      "PDB CODE OF TARGET PROTEIN": [
+        "LIST OF ACTIVE SITE RESIDUES"
+      ]
+    },
+    "UNIPROT": "UNIPROT CODE OF TARGET PROTEIN",
+    "substrates": [
+      "LIST OF SUBSTRATES"
+    ],
+    "substrates_cids": {
+      "SUBSTRATE NAMES": "SUBSTRATE CIDS",
+    }
+  },
+  "MAPPING_INFO": [
+    [
+      "CHAIN ID",
+      "RESIDUE ID"
+    ]
+  ]
+}

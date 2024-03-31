@@ -1,0 +1,608 @@
+{
+  "REF_PDB": "1MJ5",
+  "RETAIN": [
+    "Fill with residue name to mantain in PDB."
+  ],
+  "UNIPROT": {
+    "D4Z2G1": {
+      "pdbs": [
+        "1MJ5"
+      ],
+      "substrates": [
+        "1-chlorobutane",
+        "1-chlorohexane",
+        "1-bromobutane",
+        "1-bromohexane",
+        "1-iodopropane",
+        "1-iodobutane",
+        "1-iodohexane",
+        "1,3-dichloropropane",
+        "1,5-dichloropentane",
+        "1,2-dibromoethane",
+        "1,3-dibromopropane",
+        "1-bromo-3-chloropropane",
+        "1,3-diiodopropane",
+        "2-iodobutane",
+        "(S)-1,2-dibromopropane",
+        "(R)-1,2-dibromopropane",
+        "2-bromo-1-chloropropane",
+        "bis(2-chloroethyl)ether",
+        "chlorocyclohexane",
+        "bromocyclohexane",
+        "1-bromomethylcyclohexane",
+        "1-bromo-2-chloroethane",
+        "chlorocyclopentane",
+        "4-bromobutyronitrile",
+        "1,2,3-tribromopropane",
+        "3-chloro-2-methylpropene",
+        "2,3-dichloro-1-propene",
+        "1-bromo-2-methylpropane",
+        "(3R,6R)-1,3,4,6-Tetrachlorocyclohexa-1,4-diene",
+        "1-bromopropane",
+        "1-chloropropane",
+        "1-chloropentane",
+        "1-chloroheptane",
+        "1-chlorooctane",
+        "1-chlorononane",
+        "1-chlorodecane",
+        "2-chlorobutane",
+        "2-chlorooctane",
+        "3-chlorohexane",
+        "1,4-dichlorobutane",
+        "1,6-dichlorohexane",
+        "1,9-dichlorononane",
+        "1-bromoethane",
+        "2-chloroethanol",
+        "4-chlorobutanol",
+        "6-chlorohexanol"
+      ],
+      "active_sites": {
+        "1MJ5": [
+          37,
+          107,
+          108,
+          131,
+          271
+        ]
+      },
+      "substrates_cids": {
+        "1-chlorobutane": 8005,
+        "1-chlorohexane": 10992,
+        "1-bromobutane": 8002,
+        "1-bromohexane": 8101,
+        "1-iodopropane": 33643,
+        "1-iodobutane": 10962,
+        "1-iodohexane": 12527,
+        "1,3-dichloropropane": 8881,
+        "1,5-dichloropentane": 12353,
+        "1,2-dibromoethane": 7839,
+        "1,3-dibromopropane": 8001,
+        "1-bromo-3-chloropropane": 8006,
+        "1,3-diiodopropane": 12314,
+        "2-iodobutane": 10559,
+        "(S)-1,2-dibromopropane": 642201,
+        "(R)-1,2-dibromopropane": 12228454,
+        "2-bromo-1-chloropropane": 18175,
+        "bis(2-chloroethyl)ether": 8115,
+        "chlorocyclohexane": 10952,
+        "bromocyclohexane": 7960,
+        "1-bromomethylcyclohexane": 137636,
+        "1-bromo-2-chloroethane": 7849,
+        "chlorocyclopentane": 70252,
+        "4-bromobutyronitrile": 21412,
+        "1,2,3-tribromopropane": 7279,
+        "3-chloro-2-methylpropene": 11241,
+        "2,3-dichloro-1-propene": 6565,
+        "1-bromo-2-methylpropane": 6555,
+        "(3R,6R)-1,3,4,6-Tetrachlorocyclohexa-1,4-diene": 441094,
+        "1-bromopropane": 7840,
+        "1-chloropropane": 10899,
+        "1-chloropentane": 10977,
+        "1-chloroheptane": 12371,
+        "1-chlorooctane": 8142,
+        "1-chlorononane": 17185,
+        "1-chlorodecane": 13848,
+        "2-chlorobutane": 6563,
+        "2-chlorooctane": 12347,
+        "3-chlorohexane": 33016,
+        "1,4-dichlorobutane": 8059,
+        "1,6-dichlorohexane": 16551,
+        "1,9-dichlorononane": 13191,
+        "1-bromoethane": 6332,
+        "2-chloroethanol": 34,
+        "4-chlorobutanol": 13569,
+        "6-chlorohexanol": 74828
+      }
+    },
+    "P59336": {
+      "pdbs": [
+        "1CQW"
+      ],
+      "substrates": [
+        "1-chlorobutane",
+        "1-chlorohexane",
+        "1-bromobutane",
+        "1-bromohexane",
+        "1-iodopropane",
+        "1-iodobutane",
+        "1-iodohexane",
+        "1,2-dichloroethane",
+        "1,3-dichloropropane",
+        "1,5-dichloropentane",
+        "1,2-dibromoethane",
+        "1,3-dibromopropane",
+        "1-bromo-3-chloropropane",
+        "1,3-diiodopropane",
+        "2-iodobutane",
+        "(S)-1,2-dibromopropane",
+        "(R)-1,2-dibromopropane",
+        "2-bromo-1-chloropropane",
+        "1,2,3-trichloropropane",
+        "bis(2-chloroethyl)ether",
+        "chlorocyclohexane",
+        "bromocyclohexane",
+        "1-bromomethylcyclohexane",
+        "1-bromo-2-chloroethane",
+        "chlorocyclopentane",
+        "4-bromobutyronitrile",
+        "1,2,3-tribromopropane",
+        "1,2-dibromo-3-chloropropane",
+        "3-chloro-2-methylpropene",
+        "2,3-dichloro-1-propene"
+      ],
+      "active_sites": {
+        "1CQW": [
+          38,
+          103,
+          104,
+          127,
+          269
+        ]
+      },
+      "substrates_cids": {
+        "1-chlorobutane": 8005,
+        "1-chlorohexane": 10992,
+        "1-bromobutane": 8002,
+        "1-bromohexane": 8101,
+        "1-iodopropane": 33643,
+        "1-iodobutane": 10962,
+        "1-iodohexane": 12527,
+        "1,2-dichloroethane": 11,
+        "1,3-dichloropropane": 8881,
+        "1,5-dichloropentane": 12353,
+        "1,2-dibromoethane": 7839,
+        "1,3-dibromopropane": 8001,
+        "1-bromo-3-chloropropane": 8006,
+        "1,3-diiodopropane": 12314,
+        "2-iodobutane": 10559,
+        "(S)-1,2-dibromopropane": 642201,
+        "(R)-1,2-dibromopropane": 12228454,
+        "2-bromo-1-chloropropane": 18175,
+        "1,2,3-trichloropropane": 7285,
+        "bis(2-chloroethyl)ether": 8115,
+        "chlorocyclohexane": 10952,
+        "bromocyclohexane": 7960,
+        "1-bromomethylcyclohexane": 137636,
+        "1-bromo-2-chloroethane": 7849,
+        "chlorocyclopentane": 70252,
+        "4-bromobutyronitrile": 21412,
+        "1,2,3-tribromopropane": 7279,
+        "1,2-dibromo-3-chloropropane": 7280,
+        "3-chloro-2-methylpropene": 11241,
+        "2,3-dichloro-1-propene": 6565
+      }
+    },
+    "P59337": {
+      "pdbs": [
+        "3A2M"
+      ],
+      "substrates": [
+        "1-chlorobutane",
+        "1-chlorohexane",
+        "1-bromobutane",
+        "1-bromohexane",
+        "1-iodopropane",
+        "1-iodobutane",
+        "1-iodohexane",
+        "1,2-dichloroethane",
+        "1,3-dichloropropane",
+        "1,5-dichloropentane",
+        "1,2-dibromoethane",
+        "1,3-dibromopropane",
+        "1-bromo-3-chloropropane",
+        "1,3-diiodopropane",
+        "2-iodobutane",
+        "(S)-1,2-dichloropropane",
+        "(R)-1,2-dichloropropane",
+        "(S)-1,2-dibromopropane",
+        "(R)-1,2-dibromopropane",
+        "2-bromo-1-chloropropane",
+        "1,2,3-trichloropropane",
+        "bis(2-chloroethyl)ether",
+        "chlorocyclohexane",
+        "bromocyclohexane",
+        "1-bromo-2-chloroethane",
+        "chlorocyclopentane",
+        "4-bromobutyronitrile",
+        "1,2,3-tribromopropane",
+        "3-chloro-2-methylpropene",
+        "2,3-dichloro-1-propene"
+      ],
+      "active_sites": {
+        "3A2M": [
+          31,
+          96,
+          97,
+          120,
+          273
+        ]
+      },
+      "substrates_cids": {
+        "1-chlorobutane": 8005,
+        "1-chlorohexane": 10992,
+        "1-bromobutane": 8002,
+        "1-bromohexane": 8101,
+        "1-iodopropane": 33643,
+        "1-iodobutane": 10962,
+        "1-iodohexane": 12527,
+        "1,2-dichloroethane": 11,
+        "1,3-dichloropropane": 8881,
+        "1,5-dichloropentane": 12353,
+        "1,2-dibromoethane": 7839,
+        "1,3-dibromopropane": 8001,
+        "1-bromo-3-chloropropane": 8006,
+        "1,3-diiodopropane": 12314,
+        "2-iodobutane": 10559,
+        "(S)-1,2-dichloropropane": 17753912,
+        "(R)-1,2-dichloropropane": 445768,
+        "(S)-1,2-dibromopropane": 642201,
+        "(R)-1,2-dibromopropane": 12228454,
+        "2-bromo-1-chloropropane": 18175,
+        "1,2,3-trichloropropane": 7285,
+        "bis(2-chloroethyl)ether": 8115,
+        "chlorocyclohexane": 10952,
+        "bromocyclohexane": 7960,
+        "1-bromo-2-chloroethane": 7849,
+        "chlorocyclopentane": 70252,
+        "4-bromobutyronitrile": 21412,
+        "1,2,3-tribromopropane": 7279,
+        "3-chloro-2-methylpropene": 11241,
+        "2,3-dichloro-1-propene": 6565
+      }
+    },
+    "P9WMR9": {
+      "pdbs": [
+        "2QVB"
+      ],
+      "substrates": [
+        "1-chlorobutane",
+        "1-chlorohexane",
+        "1-bromobutane",
+        "1-bromohexane",
+        "1-iodopropane",
+        "1-iodobutane",
+        "1-iodohexane",
+        "1,3-dichloropropane",
+        "1,5-dichloropentane",
+        "1,2-dibromoethane",
+        "1,3-dibromopropane",
+        "1-bromo-3-chloropropane",
+        "2-iodobutane",
+        "(S)-1,2-dibromopropane",
+        "(R)-1,2-dibromopropane",
+        "2-bromo-1-chloropropane",
+        "bis(2-chloroethyl)ether",
+        "bromocyclohexane",
+        "1-bromo-2-chloroethane",
+        "chlorocyclopentane",
+        "4-bromobutyronitrile",
+        "1,2,3-tribromopropane",
+        "3-chloro-2-methylpropene",
+        "2,3-dichloro-1-propene"
+      ],
+      "active_sites": {
+        "2QVB": [
+          37,
+          107,
+          108,
+          131,
+          271
+        ]
+      },
+      "substrates_cids": {
+        "1-chlorobutane": 8005,
+        "1-chlorohexane": 10992,
+        "1-bromobutane": 8002,
+        "1-bromohexane": 8101,
+        "1-iodopropane": 33643,
+        "1-iodobutane": 10962,
+        "1-iodohexane": 12527,
+        "1,3-dichloropropane": 8881,
+        "1,5-dichloropentane": 12353,
+        "1,2-dibromoethane": 7839,
+        "1,3-dibromopropane": 8001,
+        "1-bromo-3-chloropropane": 8006,
+        "2-iodobutane": 10559,
+        "(S)-1,2-dibromopropane": 642201,
+        "(R)-1,2-dibromopropane": 12228454,
+        "2-bromo-1-chloropropane": 18175,
+        "bis(2-chloroethyl)ether": 8115,
+        "bromocyclohexane": 7960,
+        "1-bromo-2-chloroethane": 7849,
+        "chlorocyclopentane": 70252,
+        "4-bromobutyronitrile": 21412,
+        "1,2,3-tribromopropane": 7279,
+        "3-chloro-2-methylpropene": 11241,
+        "2,3-dichloro-1-propene": 6565
+      }
+    },
+    "E2RV62": {
+      "pdbs": [
+        "4K2A"
+      ],
+      "substrates": [
+        "1-chlorobutane",
+        "1-chlorohexane",
+        "1-bromobutane",
+        "1-bromohexane",
+        "1-iodopropane",
+        "1-iodobutane",
+        "1-iodohexane",
+        "1,5-dichloropentane",
+        "1,2-dibromoethane",
+        "1,3-dibromopropane",
+        "1-bromo-3-chloropropane",
+        "1,3-diiodopropane",
+        "2-iodobutane",
+        "(S)-1,2-dibromopropane",
+        "(R)-1,2-dibromopropane",
+        "2-bromo-1-chloropropane",
+        "bis(2-chloroethyl)ether",
+        "bromocyclohexane",
+        "1-bromomethylcyclohexane",
+        "1-bromo-2-chloroethane",
+        "chlorocyclopentane",
+        "4-bromobutyronitrile",
+        "1,2,3-tribromopropane",
+        "1,2-dibromo-3-chloropropane",
+        "3-chloro-2-methylpropene",
+        "2,3-dichloro-1-propene"
+      ],
+      "active_sites": {
+        "4K2A": [
+          33,
+          98,
+          99,
+          122,
+          266
+        ]
+      },
+      "substrates_cids": {
+        "1-chlorobutane": 8005,
+        "1-chlorohexane": 10992,
+        "1-bromobutane": 8002,
+        "1-bromohexane": 8101,
+        "1-iodopropane": 33643,
+        "1-iodobutane": 10962,
+        "1-iodohexane": 12527,
+        "1,5-dichloropentane": 12353,
+        "1,2-dibromoethane": 7839,
+        "1,3-dibromopropane": 8001,
+        "1-bromo-3-chloropropane": 8006,
+        "1,3-diiodopropane": 12314,
+        "2-iodobutane": 10559,
+        "(S)-1,2-dibromopropane": 642201,
+        "(R)-1,2-dibromopropane": 12228454,
+        "2-bromo-1-chloropropane": 18175,
+        "bis(2-chloroethyl)ether": 8115,
+        "bromocyclohexane": 7960,
+        "1-bromomethylcyclohexane": 137636,
+        "1-bromo-2-chloroethane": 7849,
+        "chlorocyclopentane": 70252,
+        "4-bromobutyronitrile": 21412,
+        "1,2,3-tribromopropane": 7279,
+        "1,2-dibromo-3-chloropropane": 7280,
+        "3-chloro-2-methylpropene": 11241,
+        "2,3-dichloro-1-propene": 6565
+      }
+    },
+    "P0A3G2": {
+      "pdbs": [
+        "4E46"
+      ],
+      "substrates": [
+        "1,2-dibromopropane",
+        "1,2-dichloropropane",
+        "1,3-dichloropropane",
+        "1,2,3-tribromopropane",
+        "3-bromo-1-propanol",
+        "1,2-dibromoethane",
+        "2-bromoethanol",
+        "1,3-dibromopropane",
+        "1-iodobutane",
+        "1-bromopropane",
+        "1-chloropropane",
+        "1,2,3-trichloropropane",
+        "1-chlorobutane"
+      ],
+      "active_sites": {
+        "4E46": [
+          38,
+          103,
+          104,
+          127,
+          269
+        ]
+      },
+      "substrates_cids": {
+        "1,2-dibromopropane": 6553,
+        "1,2-dichloropropane": 6564,
+        "1,3-dichloropropane": 8881,
+        "1,2,3-tribromopropane": 7279,
+        "3-bromo-1-propanol": 12308,
+        "1,2-dibromoethane": 7839,
+        "2-bromoethanol": 10898,
+        "1,3-dibromopropane": 8001,
+        "1-iodobutane": 10962,
+        "1-bromopropane": 7840,
+        "1-chloropropane": 10899,
+        "1,2,3-trichloropropane": 7285,
+        "1-chlorobutane": 8005
+      }
+    },
+    "P0A3G3": {
+      "pdbs": [
+        "4HZG"
+      ],
+      "substrates": [
+        "1,2,3-trichloropropane"
+      ],
+      "active_sites": {
+        "4HZG": [
+          39,
+          104,
+          105,
+          128,
+          270
+        ]
+      },
+      "substrates_cids": {
+        "1,2,3-trichloropropane": 7285
+      }
+    },
+    "A0A067XG66": {
+      "pdbs": [
+        "4C6H"
+      ],
+      "substrates": [
+        "1,6-dichlorohexane",
+        "1-bromooctane",
+        "1,3-dibromopropane",
+        "1-bromohexane",
+        "bromocyclohexane",
+        "1,4-dichlorobutane",
+        "2-chloropropane",
+        "1,2-dibromoethane",
+        "2-chlorobutane"
+      ],
+      "active_sites": {
+        "4C6H": [
+          35,
+          105,
+          106,
+          129,
+          270
+        ]
+      },
+      "substrates_cids": {
+        "1,6-dichlorohexane": 16551,
+        "1-bromooctane": 8140,
+        "1,3-dibromopropane": 8001,
+        "1-bromohexane": 8101,
+        "bromocyclohexane": 7960,
+        "1,4-dichlorobutane": 8059,
+        "2-chloropropane": 6361,
+        "1,2-dibromoethane": 7839,
+        "2-chlorobutane": 6563
+      }
+    },
+    "A4PEU6": {
+      "pdbs": [
+        "4H77"
+      ],
+      "substrates": [
+        "beta-hexachlorocyclohexane"
+      ],
+      "active_sites": {
+        "4H77": [
+          37,
+          107,
+          108,
+          131,
+          271
+        ]
+      },
+      "substrates_cids": {
+        "beta-hexachlorocyclohexane": 727
+      }
+    }
+  },
+  "DOCKING_BOX": {
+    "center": [
+      17.00,
+      36.00,
+      5.0
+    ],
+    "size": [
+      17.25,
+      17.25,
+      17.25
+    ]
+  },
+  "QUERY_PROTEIN": {
+    "NAME": "3U1T",
+    "PDB": "3U1T",
+    "active_sites": {
+      "3U1T": [
+        35,
+        101,
+        102,
+        125,
+        272
+      ]
+    },
+    "UNIPROT": "Q6DND9",
+    "substrates": [
+      "6,8-Dibromo-2-(chloromethyl)-3,4-dihydroquinazolin-4-one",
+      "2-chloro-N-(1-cyanocyclohexyl)-N-methylacetamide",
+      "4-(chloromethyl)-5,7,8-trimethyl-2H-chromen-2-one",
+      "4-(chloromethyl)-5-hydroxy-7-methyl-2H-chromen-2-one",
+      "2-(3-Chloromethyl-2,4,6-trimethyl-benzylidene)-malononitrile",
+      "(7R)-2-(chloromethyl)-7-methyl-5,6,7,8-tetrahydro-3H-[1]benzothiolo[2,3-d]pyrimidin-4-one",
+      "3-(Chloromethyl)-5-(2-chlorophenyl)isoxazole",
+      "6-(Chloromethyl)phenanthridine",
+      "1-Bromobutane",
+      "1-Iodopropane",
+      "1-Iodobutane",
+      "1,2-Dibromoethane",
+      "4-Bromobutyronitrile"
+    ],
+    "substrates_cids": {
+      "6,8-Dibromo-2-(chloromethyl)-3,4-dihydroquinazolin-4-one": 2393546,
+      "2-chloro-N-(1-cyanocyclohexyl)-N-methylacetamide": 2110811,
+      "4-(chloromethyl)-5,7,8-trimethyl-2H-chromen-2-one": 943534,
+      "4-(chloromethyl)-5-hydroxy-7-methyl-2H-chromen-2-one": 15758400,
+      "2-(3-Chloromethyl-2,4,6-trimethyl-benzylidene)-malononitrile": 691093,
+      "(7R)-2-(chloromethyl)-7-methyl-5,6,7,8-tetrahydro-3H-[1]benzothiolo[2,3-d]pyrimidin-4-one": 2392384,
+      "3-(Chloromethyl)-5-(2-chlorophenyl)isoxazole": 1484767,
+      "6-(Chloromethyl)phenanthridine": 222275,
+      "1-Bromobutane": 8002,
+      "1-Iodopropane": 33643,
+      "1-Iodobutane": 10962,
+      "1,2-Dibromoethane": 7839,
+      "4-Bromobutyronitrile": 21412
+    }
+  },
+  "MAPPING_INFO": [
+    [
+      "A",
+      35
+    ],
+    [
+      "A",
+      101
+    ],
+    [
+      "A",
+      102
+    ],
+    [
+      "A",
+      125
+    ],
+    [
+      "A",
+      272
+    ]
+  ]
+}
